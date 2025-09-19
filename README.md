@@ -1,4 +1,4 @@
-# Projekti
+# SaniKurri
 ## Introduction
 Tässä projektissa tehdään XYZ.
 ## Installing Instructions
